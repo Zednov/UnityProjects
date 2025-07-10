@@ -1,4 +1,0 @@
-repository "Projects/Space-Shooter-Template-After-Code-Along@5773831448574@cloud"
-  path "/"
-    br "/main"
-    co "/main"
